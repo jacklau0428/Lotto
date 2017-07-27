@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <TextView
+        android:id="@+id/txt_Num539"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="目前沒有號碼"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/btn_539"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="今彩五三九電腦選號"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/txt_Num638"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="目前沒有號碼"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/btn_638"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="威力彩電腦號"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/txt_Num496"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="目前沒有號碼"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/btn_496"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="大樂透電腦選號"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/btn_Clean"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="清除全部號碼" />
+
+</LinearLayout>
